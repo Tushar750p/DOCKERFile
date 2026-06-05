@@ -1,2 +1,2 @@
-# DOCKERFile
-demo
+# DOCKERFile demo
+Learning Docker build
